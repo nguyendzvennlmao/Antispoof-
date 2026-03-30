@@ -1,0 +1,21 @@
+settings:
+  prefix: '&x&f&a&c&c&1&5ᴀʀɪs ɴᴇᴛᴡᴏʀᴋ &8» '
+  kick-message: |
+    &x&f&f&0§8§1§2ᴀʀɪs ᴀɴᴛɪ-ᴄʜᴇᴀᴛ
+    
+    &fᴘʜᴀᴛ ʜɪᴇɴ ᴄʟɪᴇɴᴛ ᴄᴀᴍ: &x&f&a&c&c&1§5{brand}
+    &fᴠᴜɪ ʟᴏɴɢ sᴜ ᴅᴜɴɢ ᴄʟɪᴇɴᴛ sᴀᴄʜ!
+
+discord:
+  webhook-url: "YOUR_WEBHOOK_HERE"
+
+blacklisted-brands:
+  - "meteor"
+  - "impact"
+  - "future"
+  - "liquidbounce"
+  - "aristois"
+  - "wurst"
+  - "forge"
+  - "fabric"
+  - "feather"
