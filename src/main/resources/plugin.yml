@@ -1,0 +1,6 @@
+name: ArisAntiClient
+version: 1.0
+main: mw.aris.arisclient.ArisAntiClient
+api-version: 1.20
+depend: [packetevents]
+folia-supported: true
